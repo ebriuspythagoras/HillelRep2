@@ -6,10 +6,12 @@ class Program
     {
         User user1 = new User();
         user1.gender = Gender.Male;
-        
-        user1.FirstName=Console.ReadLine();
-        user1.LastName = Console.ReadLine();
 
+        Console.Write("Enter FirstName: ");
+        user1.FirstName = Console.ReadLine();
+        Console.Write("Enter LastName: ");
+        user1.LastName = Console.ReadLine();
+        Console.WriteLine(user1.ToString());
 
     }
 }

@@ -23,7 +23,7 @@ namespace HillelTask3
 
         public override string ToString()
         {
-            return "Created user: " + this.FirstName + " " + this.LastName;
+            return "Created user: " + this.FirstName + " " + this.LastName + ", " + this.Age + " years old. Gender: " + this.gender.ToString();
         }
     }
 }

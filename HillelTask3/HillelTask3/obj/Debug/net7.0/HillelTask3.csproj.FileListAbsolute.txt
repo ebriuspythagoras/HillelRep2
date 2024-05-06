@@ -1,0 +1,15 @@
+/Users/volodimir/HillelRep2/HillelTask3/HillelTask3/bin/Debug/net7.0/HillelTask3
+/Users/volodimir/HillelRep2/HillelTask3/HillelTask3/bin/Debug/net7.0/HillelTask3.deps.json
+/Users/volodimir/HillelRep2/HillelTask3/HillelTask3/bin/Debug/net7.0/HillelTask3.runtimeconfig.json
+/Users/volodimir/HillelRep2/HillelTask3/HillelTask3/bin/Debug/net7.0/HillelTask3.dll
+/Users/volodimir/HillelRep2/HillelTask3/HillelTask3/bin/Debug/net7.0/HillelTask3.pdb
+/Users/volodimir/HillelRep2/HillelTask3/HillelTask3/obj/Debug/net7.0/HillelTask3.csproj.AssemblyReference.cache
+/Users/volodimir/HillelRep2/HillelTask3/HillelTask3/obj/Debug/net7.0/HillelTask3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/volodimir/HillelRep2/HillelTask3/HillelTask3/obj/Debug/net7.0/HillelTask3.AssemblyInfoInputs.cache
+/Users/volodimir/HillelRep2/HillelTask3/HillelTask3/obj/Debug/net7.0/HillelTask3.AssemblyInfo.cs
+/Users/volodimir/HillelRep2/HillelTask3/HillelTask3/obj/Debug/net7.0/HillelTask3.csproj.CoreCompileInputs.cache
+/Users/volodimir/HillelRep2/HillelTask3/HillelTask3/obj/Debug/net7.0/HillelTask3.dll
+/Users/volodimir/HillelRep2/HillelTask3/HillelTask3/obj/Debug/net7.0/refint/HillelTask3.dll
+/Users/volodimir/HillelRep2/HillelTask3/HillelTask3/obj/Debug/net7.0/HillelTask3.pdb
+/Users/volodimir/HillelRep2/HillelTask3/HillelTask3/obj/Debug/net7.0/HillelTask3.genruntimeconfig.cache
+/Users/volodimir/HillelRep2/HillelTask3/HillelTask3/obj/Debug/net7.0/ref/HillelTask3.dll
