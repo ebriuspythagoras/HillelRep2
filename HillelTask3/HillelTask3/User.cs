@@ -25,8 +25,9 @@ namespace HillelTask3
 
         public override string ToString()
         {
+            string age_str = (this.Age < 10) ? ". I am a baby." : ". I am " + this.Age + " years old.";
             //return "Created user: " + this.FirstName + " " + this.LastName + ", " + this.Age + " years old. Gender: " + this.gender.ToString();
-            return "Hi, my name is " + this.FirstName + " and last name is" + this.LastName + ". I am " + this.Age + " years old. I am " + this.gender + "";
+            return "Hi, my name is " + this.FirstName + " and last name is " + this.LastName + age_str + " I am " + this.gender;
         }
     }
 }
