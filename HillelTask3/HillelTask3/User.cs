@@ -9,6 +9,8 @@ namespace HillelTask3
 
         public readonly byte Age;
 
+        public Gender gender { get; set; }
+
         public User()
         {
             Age = 0;
