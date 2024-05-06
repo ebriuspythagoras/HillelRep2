@@ -20,6 +20,11 @@ namespace HillelTask3
         {
             Age = age;
         }
+
+        public override string ToString()
+        {
+            return "Created user: " + this.FirstName + " " + this.LastName;
+        }
     }
 }
 
