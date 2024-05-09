@@ -1,4 +1,27 @@
 ﻿<Properties StartupConfiguration="{320BE7C1-B892-4960-BC91-F823C0C5DEAC}|Default">
-  <MonoDevelop.Ide.ItemProperties.HillelTask3 FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.HillelTask3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HillelTask3/Program.cs">
+    <Files>
+      <File FileName="HillelTask3/Program.cs" Line="24" Column="1" />
+      <File FileName="HillelTask3/User.cs" Line="28" Column="63" />
+      <File FileName="HillelTask3/Gender.cs" Line="8" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HillelTask3">
+            <Node name="HillelTask3" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
 </Properties>
